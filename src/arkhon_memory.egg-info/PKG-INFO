@@ -1,22 +1,19 @@
+Metadata-Version: 2.4
+Name: arkhon-memory
+Version: 0.1.0
+Summary: Lightweight, structured long-term memory layer for autonomous LLM agents.
+Author-email: kissg96 <kissg@me.com>
+License-Expression: MIT
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: pydantic>=2.0.0
+Dynamic: license-file
+
 # Arkhon Memory SDK
 
 **Clean, LOCAL (!!!), long-term memory for autonomous LLM agents and agentic systems.**  
 A foundational component built to support persistence, learning, and context recall — without database bloat or framework lock-in.
-
----
-
-[![PyPI version](https://img.shields.io/pypi/v/arkhon-memory.svg?style=flat-square)](https://pypi.org/project/arkhon-memory/)
-[![Python versions](https://img.shields.io/pypi/pyversions/arkhon-memory.svg?style=flat-square)](https://pypi.org/project/arkhon-memory/)
-[![License](https://img.shields.io/github/license/kissg96/arkhon_memory.svg?style=flat-square)](https://github.com/kissg96/arkhon_memory/blob/main/LICENSE)
-
----
-
-## 📦 Install
-
-```bash
-pip install arkhon-memory
-```
-Supports Python 3.8+ and pydantic 2.x.
 
 ---
 
@@ -49,24 +46,6 @@ Builders who want cognitive-like, composable memory — not chat history hacks -
 
 ---
 
-## 📄 License
-
-MIT — free to use, modify, or integrate.
-
----
-
-## 🤝 Contributing & Feedback
-
-We welcome feedback, issues, and pull requests!  
-If you find a bug or have ideas for improvement, please open an issue or submit a PR on [GitHub](https://github.com/kissg96/arkhon_memory).
-
-For questions, feature requests, or direct contact:  
-**Email:** [kissg@me.com](mailto:kissg@me.com)
-
-Star the repo if you find Arkhon useful or want to follow updates!
-
----
-
 ## 🛠️ Quick Start (included in examples folder)
 
 ```python
@@ -93,4 +72,3 @@ on_session_exit(
     summary="Demo session saving basic fact about Tokyo.",
     title="Tokyo Fact Demo"
 )
-

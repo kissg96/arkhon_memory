@@ -1,0 +1,21 @@
+[project]
+name = "arkhon-memory"
+version = "0.1.0"
+description = "Lightweight, structured long-term memory layer for autonomous LLM agents."
+authors = [
+    { name="kissg96", email="kissg@me.com" }
+]
+readme = "README.md"
+requires-python = ">=3.8"
+dependencies = [
+    "pydantic>=2.0.0"
+]
+license = "MIT"
+
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+packages = ["arkhon_memory"]
