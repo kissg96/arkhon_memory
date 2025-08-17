@@ -5,7 +5,7 @@ A foundational component built to support persistence, learning, and context rec
 
 ---
 
-## 🤝 Contributing & Feedback
+## Contributing & Feedback
 
 I welcome feedback, issues, and pull requests!  
 If you find a bug or have ideas for improvement, please open an issue or submit a PR on [GitHub](https://github.com/kissg96/arkhon_memory).
@@ -23,7 +23,7 @@ Star the repo if you find Arkhon useful or want to follow updates!
 
 ---
 
-## 📦 Install
+## Install
 
 ```bash
 pip install arkhon-memory
@@ -32,7 +32,7 @@ Supports Python 3.8+ and pydantic 2.x.
 
 ---
 
-## 🚀 What is Arkhon Memory?
+## What is Arkhon Memory?
 
 Most agent “memory” is brittle: chat logs, hacky context, or heavyweight vector DBs.
 
@@ -51,7 +51,7 @@ Builders who want cognitive-like, composable memory — not chat history hacks -
 
 ---
 
-## ✨ Features
+## Features
 
 - **Plug-and-play**: add persistent memory to any LLM agent in minutes
 - **Time decay & reuse**: fresher and more-used facts stay relevant
@@ -61,13 +61,13 @@ Builders who want cognitive-like, composable memory — not chat history hacks -
 
 ---
 
-## 📄 License
+## License
 
 MIT — free to use, modify, or integrate.
 
 ---
 
-## 🛠️ Quick Start (included in examples folder)
+## Quick Start (included in examples folder)
 
 ```python
 from arkhon_memory.memory_hub import MemoryHub
