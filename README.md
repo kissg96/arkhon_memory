@@ -5,6 +5,18 @@ A foundational component built to support persistence, learning, and context rec
 
 ---
 
+## 🤝 Contributing & Feedback
+
+I welcome feedback, issues, and pull requests!  
+If you find a bug or have ideas for improvement, please open an issue or submit a PR on [GitHub](https://github.com/kissg96/arkhon_memory).
+
+For questions, feature requests, or direct contact:  
+**Email:** [kissg@me.com](mailto:kissg@me.com)
+
+Star the repo if you find Arkhon useful or want to follow updates!
+
+---
+
 [![PyPI version](https://img.shields.io/pypi/v/arkhon-memory.svg?style=flat-square)](https://pypi.org/project/arkhon-memory/)
 [![Python versions](https://img.shields.io/pypi/pyversions/arkhon-memory.svg?style=flat-square)](https://pypi.org/project/arkhon-memory/)
 [![License](https://img.shields.io/github/license/kissg96/arkhon_memory.svg?style=flat-square)](https://github.com/kissg96/arkhon_memory/blob/main/LICENSE)
@@ -52,18 +64,6 @@ Builders who want cognitive-like, composable memory — not chat history hacks -
 ## 📄 License
 
 MIT — free to use, modify, or integrate.
-
----
-
-## 🤝 Contributing & Feedback
-
-We welcome feedback, issues, and pull requests!  
-If you find a bug or have ideas for improvement, please open an issue or submit a PR on [GitHub](https://github.com/kissg96/arkhon_memory).
-
-For questions, feature requests, or direct contact:  
-**Email:** [kissg@me.com](mailto:kissg@me.com)
-
-Star the repo if you find Arkhon useful or want to follow updates!
 
 ---
 
