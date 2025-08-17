@@ -18,7 +18,7 @@ Star the repo if you find Arkhon useful or want to follow updates!
 ---
 
 [![PyPI version](https://img.shields.io/pypi/v/arkhon-memory.svg?style=flat-square)](https://pypi.org/project/arkhon-memory/)
-[![Python versions](https://img.shields.io/pypi/pyversions/arkhon-memory.svg?style=flat-square)](https://pypi.org/project/arkhon-memory/)
+[![Python versions](https://img.shields.io/pypi/pyversions/arkhon-memory.svg?style=flat-square&cacheseconds=0)](https://pypi.org/project/arkhon-memory/)
 [![License](https://img.shields.io/github/license/kissg96/arkhon_memory.svg?style=flat-square)](https://github.com/kissg96/arkhon_memory/blob/main/LICENSE)
 
 ---
