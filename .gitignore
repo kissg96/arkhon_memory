@@ -32,3 +32,4 @@ dist/
 llama.cpp/
 LLM/
 extensions/
+build/

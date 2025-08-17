@@ -8,13 +8,13 @@ from datetime import datetime
 
 class MemoryItem(BaseModel):
     content: str
-    tags: List[str] = []
+    tags: List[str] = Field(default_factory=list)
     timestamp: datetime
     reuse_count: int = 0
 
 class Snapshot(BaseModel):
     title: str
     summary: str
-    tags: List[str] = []
+    tags: List[str] = Field(default_factory=list)
     timestamp: datetime
     raw: Optional[str] = None  # Path or blob, optional
